@@ -6,7 +6,7 @@
 
 ---
 
-Here are the examples of some codes/scripts I have created:
+Here are some of my coursework and self-initiated coding projects:
 
 - **[Time Integration Scheme Analysis](https://github.com/safibta/Numerical-integration-dispersion-analysis)** & **[Response Curves](https://github.com/safibta/Composite-method-response-curves)** investigate properties of certain time composite numerical schemes.
 - **[Spherical PCM Temperature](https://github.com/safibta/Spherical-PCM-temperature-profile)** & **[PCM Interface Tracking](https://github.com/safibta/Spherical-PCM-interface)** solve PDE and plot time series solutions for a spherical phase change material sample.
