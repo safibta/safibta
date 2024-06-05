@@ -1,4 +1,4 @@
-# Safi Ahmed Memon, Ph.D.
+# Safi Ahmed, Ph.D.
 
 *I have a Ph.D. in Mechanical Engineering with a focus on thermal-fluid CFD simulations. In my Ph.D. I explored the geometrical attributes of cooling channels. Recently I've been interested in topology optimization as a next step in my endeavors.*
 
