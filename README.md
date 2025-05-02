@@ -1,6 +1,6 @@
-# Safi Ahmed, Ph.D.
+# Safi Ahmed
 
-*I have a Ph.D. in Mechanical Engineering with a focus on thermal-fluid CFD simulations. In my Ph.D. I explored the geometrical attributes of cooling channels. Recently I've been interested in solving flow PDEs and topology optimization of fluid flow problems in functional programming paradigm as a next step in my endeavors.*
+I have a background in STEM research, with experience in modeling physical systems such as designing cooling systems for modern AI chips and developing sustainable technologies like solar-powered vaccine storage. I love using computational tools for visualization and equation-solving. 
 
 *I am passionate about using Wolfram Language for scientific programming and have experience applying it across various fields.*
  
